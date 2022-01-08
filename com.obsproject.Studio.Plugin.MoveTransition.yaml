@@ -16,12 +16,13 @@ modules:
       - -DBUILD_OUT_OF_TREE=On
     post-install:
       - install -Dm644 --target-directory=${FLATPAK_DEST}/share/metainfo ${FLATPAK_ID}.metainfo.xml
-      - appstream-compose --basename=${FLATPAK_ID} --prefix=${FLATPAK_DEST} --origin=flatpak ${FLATPAK_ID}
+      - appstream-compose --basename=${FLATPAK_ID} --prefix=${FLATPAK_DEST} --origin=flatpak
+        ${FLATPAK_ID}
     sources:
       - type: git
         url: https://github.com/exeldro/obs-move-transition.git
-        tag: 2.5.3
-        commit: 986648c0b24dd6f0f718d86b64e6a670e865591c
+        tag: 2.5.4
+        commit: fd9baa577ac04fcf865b9d7a0ce36d70b5093c43
         x-checker-data:
           type: git
           is-main-source: true
