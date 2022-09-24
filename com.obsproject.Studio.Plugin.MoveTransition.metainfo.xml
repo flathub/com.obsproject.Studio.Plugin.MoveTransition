@@ -8,6 +8,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <releases>
+    <release version="2.6.2" date="2022-09-24"/>
     <release version="2.6.1" date="2022-07-13"/>
     <release version="2.6.0" date="2022-07-11"/>
     <release version="2.5.8" date="2022-03-04"/>
