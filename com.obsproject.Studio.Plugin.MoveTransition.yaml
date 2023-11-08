@@ -21,8 +21,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exeldro/obs-move-transition.git
-        tag: 2.9.5
-        commit: 47b73b0fa689cbce6ad90191730e5abbe4450f22
+        tag: 2.9.6
+        commit: 07d625455f92d724cc74e8ee8c5cb187179989f1
         x-checker-data:
           type: git
           is-main-source: true
