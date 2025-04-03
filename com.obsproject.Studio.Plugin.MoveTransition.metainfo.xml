@@ -8,8 +8,11 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <releases>
-    <release version="3.1.1" date="2024-10-23">
+    <release version="3.1.2" date="2025-04-03">
       <description></description>
+    </release>
+    <release version="3.1.1" date="2024-10-23">
+      <description/>
     </release>
     <release version="3.1.0" date="2024-09-28">
       <description/>
