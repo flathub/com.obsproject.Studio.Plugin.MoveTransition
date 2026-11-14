@@ -8,8 +8,12 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <releases>
-    <release version="3.2.1" date="2026-02-10">
+    <release version="3.2.2" date="2026-11-14">
+      <url type="details">https://github.com/exeldro/obs-move-transition/releases/tag/3.2.2</url>
       <description></description>
+    </release>
+    <release version="3.2.1" date="2026-02-10">
+      <description/>
     </release>
     <release version="3.2.0" date="2025-11-22">
       <description/>
